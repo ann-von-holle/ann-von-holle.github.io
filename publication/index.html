@@ -205,6 +205,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LC0BK0T0H4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-LC0BK0T0H4', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -606,6 +644,10 @@
             <option value="*">Type</option>
             
             
+            <option value=".pubtype-0">
+              Uncategorized
+            </option>
+            
             <option value=".pubtype-2">
               Journal article
             </option>
@@ -642,7 +684,7 @@
           
         
 
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-2020">
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-0 year-2020">
           
             <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -654,7 +696,7 @@
     
 
   
-  <span><a href="ann-von-holle.github.io/author/ann-von-holle/">Ann Von Holle</a></span>
+  <span><a href="ann-von-holle.github.io/author/ann-von-holle/">Ann Von Holle</a></span>, <span>Katie M. O&#39;Brien</span>, <span>Dale P. Sandler</span>, <span>Clarice R. Weinberg</span>
   </span>
   (2020).
   <a href="ann-von-holle.github.io/publication/preprint1/">Evidence for familial clustering in breast cancer age of onset</a>.

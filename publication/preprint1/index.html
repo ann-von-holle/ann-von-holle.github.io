@@ -205,6 +205,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LC0BK0T0H4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-LC0BK0T0H4', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -628,7 +666,7 @@
     
 
   
-  <span><a href="ann-von-holle.github.io/author/ann-von-holle/">Ann Von Holle</a></span>
+  <span><a href="ann-von-holle.github.io/author/ann-von-holle/">Ann Von Holle</a></span>, <span>Katie M. O&#39;Brien</span>, <span>Dale P. Sandler</span>, <span>Clarice R. Weinberg</span>
   </div>
   
   
@@ -737,8 +775,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="ann-von-holle.github.io/publication/#3">
-              Preprint
+            <a href="ann-von-holle.github.io/publication/#0">
+              Uncategorized
             </a>
             
           </div>
@@ -755,7 +793,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">International Journal of Epidemiology</div>
+          <div class="col-12 col-md-9">In press at International Journal of Epidemiology</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -780,90 +818,6 @@
 </div>
 
 
-
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://twitter.com/intent/tweet?url=ann-von-holle.github.io/publication/preprint1/&amp;text=Evidence%20for%20familial%20clustering%20in%20breast%20cancer%20age%20of%20onset" target="_blank" rel="noopener" class="share-btn-twitter">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.facebook.com/sharer.php?u=ann-von-holle.github.io/publication/preprint1/&amp;t=Evidence%20for%20familial%20clustering%20in%20breast%20cancer%20age%20of%20onset" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="mailto:?subject=Evidence%20for%20familial%20clustering%20in%20breast%20cancer%20age%20of%20onset&amp;body=ann-von-holle.github.io/publication/preprint1/" target="_blank" rel="noopener" class="share-btn-email">
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.linkedin.com/shareArticle?url=ann-von-holle.github.io/publication/preprint1/&amp;title=Evidence%20for%20familial%20clustering%20in%20breast%20cancer%20age%20of%20onset" target="_blank" rel="noopener" class="share-btn-linkedin">
-          <i class="fab fa-linkedin-in"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://web.whatsapp.com/send?text=Evidence%20for%20familial%20clustering%20in%20breast%20cancer%20age%20of%20onset%20ann-von-holle.github.io/publication/preprint1/" target="_blank" rel="noopener" class="share-btn-whatsapp">
-          <i class="fab fa-whatsapp"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://service.weibo.com/share/share.php?url=ann-von-holle.github.io/publication/preprint1/&amp;title=Evidence%20for%20familial%20clustering%20in%20breast%20cancer%20age%20of%20onset" target="_blank" rel="noopener" class="share-btn-weibo">
-          <i class="fab fa-weibo"></i>
-        </a>
-      </li>
-    
-  </ul>
-</div>
 
 
 
@@ -991,6 +945,39 @@
 
       </div>
     </div>
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
   
 
 

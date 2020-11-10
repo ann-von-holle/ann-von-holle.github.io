@@ -205,6 +205,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LC0BK0T0H4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-LC0BK0T0H4', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -587,6 +625,15 @@
       <li><a href="ann-von-holle.github.io/author/ann-von-holle/">Ann Von Holle</a></li>
     
       
+      <li><a href="ann-von-holle.github.io/author/clarice-r.-weinberg/">Clarice R. Weinberg</a></li>
+    
+      
+      <li><a href="ann-von-holle.github.io/author/dale-p.-sandler/">Dale P. Sandler</a></li>
+    
+      
+      <li><a href="ann-von-holle.github.io/author/katie-m.-obrien/">Katie M. O&#39;Brien</a></li>
+    
+      
       <li><a href="ann-von-holle.github.io/author/anne-justice/">Anne Justice</a></li>
     
       
@@ -603,15 +650,6 @@
     
       
       <li><a href="ann-von-holle.github.io/author/misa-graff/">Misa Graff</a></li>
-    
-      
-      <li><a href="ann-von-holle.github.io/author/raquel-burrows/">Raquel Burrows</a></li>
-    
-      
-      <li><a href="ann-von-holle.github.io/author/saroja-voruganti/">Saroja Voruganti</a></li>
-    
-      
-      <li><a href="ann-von-holle.github.io/author/sheila-gahagan/">Sheila Gahagan</a></li>
     
   </ul>
 
