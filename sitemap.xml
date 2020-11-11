@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>ann-von-holle.github.io/tag/age-of-onset/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>ann-von-holle.github.io/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
@@ -43,6 +48,16 @@
   </url>
   
   <url>
+    <loc>ann-von-holle.github.io/tag/biomarkers/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ann-von-holle.github.io/tag/breast-cancer/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>ann-von-holle.github.io/author/clarice-r.-weinberg/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
@@ -58,6 +73,11 @@
   </url>
   
   <url>
+    <loc>ann-von-holle.github.io/tag/iron/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>ann-von-holle.github.io/author/katie-m.-obrien/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
@@ -69,11 +89,6 @@
   
   <url>
     <loc>ann-von-holle.github.io/publication/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/tag/source-themes/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,16 +163,6 @@
   </url>
   
   <url>
-    <loc>ann-von-holle.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>ann-von-holle.github.io/poster/20190601_ageofonset/</loc>
     <lastmod>2019-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -165,11 +170,6 @@
   <url>
     <loc>ann-von-holle.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -228,71 +228,11 @@
   </url>
   
   <url>
-    <loc>ann-von-holle.github.io/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>ann-von-holle.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/tag/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/category/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/tag/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/tag/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>ann-von-holle.github.io/cv/</loc>
-  </url>
-  
-  <url>
-    <loc>ann-von-holle.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>
