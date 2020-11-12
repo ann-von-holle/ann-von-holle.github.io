@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ann Von Holle</title>
-    <link>ann-von-holle.github.io/</link>
-      <atom:link href="ann-von-holle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ann Von Holle</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/ann-von-holle.github.io/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
       <title>Ann Von Holle</title>
-      <link>ann-von-holle.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>ann-von-holle.github.io/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>ann-von-holle.github.io/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>ann-von-holle.github.io/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>ann-von-holle.github.io/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,33 +56,33 @@
     
     <item>
       <title>Association between serum iron biomarkers and breast cancer</title>
-      <link>ann-von-holle.github.io/publication/preprint2/</link>
+      <link>/publication/preprint2/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/publication/preprint2/</guid>
+      <guid>/publication/preprint2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence for familial clustering in breast cancer age of onset</title>
-      <link>ann-von-holle.github.io/publication/preprint1/</link>
+      <link>/publication/preprint1/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/publication/preprint1/</guid>
+      <guid>/publication/preprint1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sociodemographic predictors of early postnatal growth: Evidence from a Chilean infancy cohort</title>
-      <link>ann-von-holle.github.io/publication/journal-article1/</link>
+      <link>/publication/journal-article1/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/publication/journal-article1/</guid>
+      <guid>/publication/journal-article1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association between serum iron biomarkers and breast cancer incidence</title>
-      <link>ann-von-holle.github.io/poster/20191101_iron/</link>
+      <link>/poster/20191101_iron/</link>
       <pubDate>Fri, 01 Nov 2019 13:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/poster/20191101_iron/</guid>
+      <guid>/poster/20191101_iron/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -102,9 +102,9 @@
     
     <item>
       <title>Familial aggregation of age of onset for breast cancer risk</title>
-      <link>ann-von-holle.github.io/poster/20190601_ageofonset/</link>
+      <link>/poster/20190601_ageofonset/</link>
       <pubDate>Sat, 01 Jun 2019 13:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/poster/20190601_ageofonset/</guid>
+      <guid>/poster/20190601_ageofonset/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -124,9 +124,9 @@
     
     <item>
       <title>Slides</title>
-      <link>ann-von-holle.github.io/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -258,17 +258,17 @@ Three
     
     <item>
       <title>The perils of standardizing infant weight to assess weight change differences across exposure groups</title>
-      <link>ann-von-holle.github.io/publication/journal-article2/</link>
+      <link>/publication/journal-article2/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/publication/journal-article2/</guid>
+      <guid>/publication/journal-article2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infant Growth Trajectories and Lipid Levels in Adolescence: Evidence from a Chilean Infancy Cohort</title>
-      <link>ann-von-holle.github.io/talk/20180301_growth_talk/</link>
+      <link>/talk/20180301_growth_talk/</link>
       <pubDate>Thu, 01 Mar 2018 13:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/talk/20180301_growth_talk/</guid>
+      <guid>/talk/20180301_growth_talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -288,9 +288,9 @@ Three
     
     <item>
       <title>Aim 1</title>
-      <link>ann-von-holle.github.io/project/dissertation-aim1/</link>
+      <link>/project/dissertation-aim1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/project/dissertation-aim1/</guid>
+      <guid>/project/dissertation-aim1/</guid>
       <description>&lt;p&gt;Title: 
 &lt;a href=&#34;http://dx.doi.org/10.1136/bmjopen-2019-033695&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sociodemographic predictors of early postnatal growth: evidence from a Chilean infancy cohort&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;&lt;/p&gt;
@@ -313,9 +313,9 @@ Three
     
     <item>
       <title>Aim 2</title>
-      <link>ann-von-holle.github.io/project/dissertation-aim2/</link>
+      <link>/project/dissertation-aim2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/project/dissertation-aim2/</guid>
+      <guid>/project/dissertation-aim2/</guid>
       <description>&lt;p&gt;Currently in review at 
 &lt;a href=&#34;https://www.jpeds.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Journal of Pediatrics&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Oral presentation at the American Heart Association Epi|Lifestyle 2018 meeting. Slides created in 
@@ -333,9 +333,9 @@ Three
     
     <item>
       <title>Aim 3</title>
-      <link>ann-von-holle.github.io/project/dissertation-aim3/</link>
+      <link>/project/dissertation-aim3/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/project/dissertation-aim3/</guid>
+      <guid>/project/dissertation-aim3/</guid>
       <description>&lt;p&gt;Poster presented at American Heart Association Epi|Lifestyle 2018 meeting. Slides created in 
 &lt;a href=&#34;https://www.overleaf.com/read/ddyzyzrphshc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Early infancy serves as a window of time in which environmental exposures are associated with chronic disease risk factors in adulthood. Infant weight growth during this time has been associated with lipid levels in both animal models and observational studies in humans. Epigenetic modification is one mechanism explaining this association, which results in metabolic programming. Extensive studies support functional association between genetic regions and lipid levels. Infant growth may influence genetic mechanisms and subsequent metabolic programming of lipid metabolism.&lt;/p&gt;

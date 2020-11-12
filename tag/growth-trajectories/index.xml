@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>growth trajectories | Ann Von Holle</title>
-    <link>ann-von-holle.github.io/tag/growth-trajectories/</link>
-      <atom:link href="ann-von-holle.github.io/tag/growth-trajectories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/growth-trajectories/</link>
+      <atom:link href="/tag/growth-trajectories/index.xml" rel="self" type="application/rss+xml" />
     <description>growth trajectories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/ann-von-holle.github.io/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
       <title>growth trajectories</title>
-      <link>ann-von-holle.github.io/tag/growth-trajectories/</link>
+      <link>/tag/growth-trajectories/</link>
     </image>
     
     <item>
       <title>The perils of standardizing infant weight to assess weight change differences across exposure groups</title>
-      <link>ann-von-holle.github.io/publication/journal-article2/</link>
+      <link>/publication/journal-article2/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/publication/journal-article2/</guid>
+      <guid>/publication/journal-article2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aim 1</title>
-      <link>ann-von-holle.github.io/project/dissertation-aim1/</link>
+      <link>/project/dissertation-aim1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/project/dissertation-aim1/</guid>
+      <guid>/project/dissertation-aim1/</guid>
       <description>&lt;p&gt;Title: 
 &lt;a href=&#34;http://dx.doi.org/10.1136/bmjopen-2019-033695&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sociodemographic predictors of early postnatal growth: evidence from a Chilean infancy cohort&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;&lt;/p&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>Aim 3</title>
-      <link>ann-von-holle.github.io/project/dissertation-aim3/</link>
+      <link>/project/dissertation-aim3/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/project/dissertation-aim3/</guid>
+      <guid>/project/dissertation-aim3/</guid>
       <description>&lt;p&gt;Poster presented at American Heart Association Epi|Lifestyle 2018 meeting. Slides created in 
 &lt;a href=&#34;https://www.overleaf.com/read/ddyzyzrphshc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Early infancy serves as a window of time in which environmental exposures are associated with chronic disease risk factors in adulthood. Infant weight growth during this time has been associated with lipid levels in both animal models and observational studies in humans. Epigenetic modification is one mechanism explaining this association, which results in metabolic programming. Extensive studies support functional association between genetic regions and lipid levels. Infant growth may influence genetic mechanisms and subsequent metabolic programming of lipid metabolism.&lt;/p&gt;

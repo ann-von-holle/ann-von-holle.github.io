@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks | Ann Von Holle</title>
-    <link>ann-von-holle.github.io/talk/</link>
-      <atom:link href="ann-von-holle.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/ann-von-holle.github.io/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
       <title>Talks</title>
-      <link>ann-von-holle.github.io/talk/</link>
+      <link>/talk/</link>
     </image>
     
     <item>
       <title>Infant Growth Trajectories and Lipid Levels in Adolescence: Evidence from a Chilean Infancy Cohort</title>
-      <link>ann-von-holle.github.io/talk/20180301_growth_talk/</link>
+      <link>/talk/20180301_growth_talk/</link>
       <pubDate>Thu, 01 Mar 2018 13:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/talk/20180301_growth_talk/</guid>
+      <guid>/talk/20180301_growth_talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

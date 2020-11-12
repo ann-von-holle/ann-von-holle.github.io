@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Annie Green Howard | Ann Von Holle</title>
-    <link>ann-von-holle.github.io/author/annie-green-howard/</link>
-      <atom:link href="ann-von-holle.github.io/author/annie-green-howard/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/annie-green-howard/</link>
+      <atom:link href="/author/annie-green-howard/index.xml" rel="self" type="application/rss+xml" />
     <description>Annie Green Howard</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/ann-von-holle.github.io/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
       <title>Annie Green Howard</title>
-      <link>ann-von-holle.github.io/author/annie-green-howard/</link>
+      <link>/author/annie-green-howard/</link>
     </image>
     
     <item>
       <title>Sociodemographic predictors of early postnatal growth: Evidence from a Chilean infancy cohort</title>
-      <link>ann-von-holle.github.io/publication/journal-article1/</link>
+      <link>/publication/journal-article1/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>ann-von-holle.github.io/publication/journal-article1/</guid>
+      <guid>/publication/journal-article1/</guid>
       <description></description>
     </item>
     
