@@ -72,5 +72,16 @@
 </description>
     </item>
     
+    <item>
+      <title>Rmarkdown dissertation template</title>
+      <link>https://ann-von-holle.github.io/project/dissertation-markdown/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/project/dissertation-markdown/</guid>
+      <description>&lt;p&gt;I organized and formatted my dissertation using 
+&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt;. You find a working template at the following github repo: 
+&lt;a href=&#34;https://github.com/avonholle/unc-dissertation-markdown-template&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/avonholle/unc-dissertation-markdown-template&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

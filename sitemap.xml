@@ -253,17 +253,7 @@
   </url>
   
   <url>
-    <loc>https://ann-von-holle.github.io/tag/hdl-c/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ann-von-holle.github.io/tag/latent-growth-mixture-models/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/tag/ldl-c/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -283,12 +273,37 @@
   </url>
   
   <url>
+    <loc>https://ann-von-holle.github.io/tag/markdown/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ann-von-holle.github.io/tag/predictors/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ann-von-holle.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/tag/reproducible-research/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/project2/dissertation-markdown/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/tag/shiny/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/project2/shiny-app1/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -304,11 +319,6 @@
   
   <url>
     <loc>https://ann-von-holle.github.io/tag/socioeconomic-position/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/tag/tg/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
