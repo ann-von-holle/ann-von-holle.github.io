@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sister Study | Ann Von Holle</title>
-    <link>/tag/sister-study/</link>
-      <atom:link href="/tag/sister-study/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ann-von-holle.github.io/tag/sister-study/</link>
+      <atom:link href="https://ann-von-holle.github.io/tag/sister-study/index.xml" rel="self" type="application/rss+xml" />
     <description>Sister Study</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ann-von-holle.github.io/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
       <title>Sister Study</title>
-      <link>/tag/sister-study/</link>
+      <link>https://ann-von-holle.github.io/tag/sister-study/</link>
     </image>
     
     <item>
       <title>Evidence for familial clustering in breast cancer age of onset</title>
-      <link>/publication/preprint1/</link>
+      <link>https://ann-von-holle.github.io/publication/preprint1/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint1/</guid>
+      <guid>https://ann-von-holle.github.io/publication/preprint1/</guid>
       <description></description>
     </item>
     
