@@ -97,49 +97,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Rmarkdown dissertation template</title>
-      <link>https://ann-von-holle.github.io/project2/dissertation-markdown/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ann-von-holle.github.io/project2/dissertation-markdown/</guid>
-      <description>&lt;p&gt;I organized and formatted my dissertation using 
-&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt;. You find a working template similar to what I used for my 
-&lt;a href=&#34;https://cdr.lib.unc.edu/concern/dissertations/9z9031040&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dissertation&lt;/a&gt; at the following github repo: 
-&lt;a href=&#34;https://github.com/avonholle/unc-dissertation-markdown-template&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/avonholle/unc-dissertation-markdown-template&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Shiny Apps</title>
-      <link>https://ann-von-holle.github.io/project2/shiny-app1/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ann-von-holle.github.io/project2/shiny-app1/</guid>
-      <description>&lt;p&gt;I made several 
-&lt;a href=&#34;https://www.shinyapps.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shiny Apps&lt;/a&gt; in my first year of graduate school in the UNC Department of Epidemiology demonstrating:&lt;/p&gt;
-&lt;h4 id=&#34;time-dependence-in-survival-analyses&#34;&gt;Time dependence in survival analyses&lt;/h4&gt;
-&lt;p&gt;This 
-&lt;a href=&#34;https://vonholleunc.shinyapps.io/survival/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates examples of time dependence in survival analyses.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/avonholle/survival-app-shiny&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;statistical-interaction-and-confouding&#34;&gt;Statistical interaction and confouding&lt;/h4&gt;
-&lt;p&gt;This 
-&lt;a href=&#34;https://vonholleunc.shinyapps.io/int_and_conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates both statistical interaction and confounding.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/avonholle/int-and-conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;additive-and-multiplicative-effect-modification-part-1&#34;&gt;Additive and multiplicative effect modification, part 1&lt;/h4&gt;
-&lt;p&gt;This 
-&lt;a href=&#34;https://vonholleunc.shinyapps.io/int_and_conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates interaction on additive versus multiplicative scale. The example is from the Hosmer and Lemeshow 2013 textbook 
-&lt;a href=&#34;https://www.wiley.com/en-us/Applied&amp;#43;Logistic&amp;#43;Regression%2C&amp;#43;3rd&amp;#43;Edition-p-9780470582473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Applied Logistic Regression&amp;rsquo;&lt;/a&gt;, section 10.9.1, pages 448 to 451, titled, &amp;ldquo;Additive versus Multiplicative Scale &amp;ndash; Risk difference versus odds ratio&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/avonholle/add-mult-int-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;additive-and-multiplicative-effect-modification-part-2&#34;&gt;Additive and multiplicative effect modification, part 2&lt;/h4&gt;
-&lt;p&gt;This 
-&lt;a href=&#34;https://vonholleunc.shinyapps.io/add-mult-int-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates additive and multiplicative interaction based on example in the  
-&lt;a href=&#34;https://www.wiley.com/en-us/Applied&amp;#43;Logistic&amp;#43;Regression%2C&amp;#43;3rd&amp;#43;Edition-p-9780470582473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Applied Logistic Regression&amp;rsquo;&lt;/a&gt; textbook, section 10.9.2, pages 451-456.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/avonholle/add-mult-int-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
