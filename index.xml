@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ann Von Holle</title>
+    <link>https://ann-von-holle.github.io/</link>
+      <atom:link href="https://ann-von-holle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ann Von Holle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ann-von-holle.github.io/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
+      <title>Ann Von Holle</title>
+      <link>https://ann-von-holle.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://ann-von-holle.github.io/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://ann-von-holle.github.io/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://ann-von-holle.github.io/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://ann-von-holle.github.io/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictive models for iron status in postmenopausal women</title>
+      <link>https://ann-von-holle.github.io/poster/202106-ser2/</link>
+      <pubDate>Mon, 21 Jun 2021 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/poster/202106-ser2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toenail and serum measures as biomarkers of iron levels</title>
+      <link>https://ann-von-holle.github.io/poster/202106-ser1/</link>
+      <pubDate>Mon, 21 Jun 2021 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/poster/202106-ser1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between serum iron biomarkers and breast cancer</title>
+      <link>https://ann-von-holle.github.io/poster/202012-iron/</link>
+      <pubDate>Tue, 01 Dec 2020 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/poster/202012-iron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for familial clustering in breast cancer age of onset</title>
+      <link>https://ann-von-holle.github.io/publication/journal-article1/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/publication/journal-article1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between serum iron biomarkers and breast cancer</title>
+      <link>https://ann-von-holle.github.io/publication/preprint2/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/publication/preprint2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sociodemographic predictors of early postnatal growth: Evidence from a Chilean infancy cohort</title>
+      <link>https://ann-von-holle.github.io/publication/journal-article2/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/publication/journal-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Familial aggregation of age of onset for breast cancer risk</title>
+      <link>https://ann-von-holle.github.io/poster/201906-ageofonset/</link>
+      <pubDate>Sat, 01 Jun 2019 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/poster/201906-ageofonset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://ann-von-holle.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The perils of standardizing infant weight to assess weight change differences across exposure groups</title>
+      <link>https://ann-von-holle.github.io/publication/journal-article3/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/publication/journal-article3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sociodemographic predictors of early postnatal growth</title>
+      <link>https://ann-von-holle.github.io/poster/2018-ser/</link>
+      <pubDate>Fri, 01 Jun 2018 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/poster/2018-ser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infant Growth as an Effect Modifier of Genetic-Lipid Associations: Evidence From a Chilean Infancy Cohort</title>
+      <link>https://ann-von-holle.github.io/poster/2018-aha/</link>
+      <pubDate>Thu, 01 Mar 2018 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/poster/2018-aha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infant Growth Trajectories and Lipid Levels in Adolescence: Evidence from a Chilean Infancy Cohort</title>
+      <link>https://ann-von-holle.github.io/talk/20180301_growth_talk/</link>
+      <pubDate>Thu, 01 Mar 2018 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/talk/20180301_growth_talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confirmatory Factor Analysis of Multivariate Lipid Distributions Across Time and Race and Ethnic Groups: United States, 2003-2012</title>
+      <link>https://ann-von-holle.github.io/poster/2017-01-cfa/</link>
+      <pubDate>Wed, 01 Mar 2017 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/poster/2017-01-cfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lipid-related Genetic Variants and Lipid Outcomes in a Cohort of Chilean Children</title>
+      <link>https://ann-von-holle.github.io/poster/2017-03-aha/</link>
+      <pubDate>Wed, 01 Mar 2017 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/poster/2017-03-aha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The utility of standardizing or crude weight measures in modeling of postnatal growth trajectories: are there differences?</title>
+      <link>https://ann-von-holle.github.io/poster/2016-ser/</link>
+      <pubDate>Wed, 01 Jun 2016 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/poster/2016-ser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aim 1</title>
+      <link>https://ann-von-holle.github.io/project/dissertation-aim1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/project/dissertation-aim1/</guid>
+      <description>&lt;p&gt;Title: 
+&lt;a href=&#34;http://dx.doi.org/10.1136/bmjopen-2019-033695&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sociodemographic predictors of early postnatal growth: evidence from a Chilean infancy cohort&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Infant anthropometric growth varies across socioeconomic factors, including maternal education and income, and may serve as an indicator of environmental influences in early life with long term health consequences. Previous research has identified sociodemographic gradients in growth with a focus on the first year and beyond, but estimates are sparse for growth before six months. Thus, our objective was to examine the relationship between sociodemographic factors and infant growth patterns between birth and five months of age.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prospective cohort study&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Settings&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Low- to middle-income neighborhoods in Santiago, Chile (1991-1996).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1,412 participants from a randomized iron deficiency anemia preventive trial in healthy infants.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main outcome measures&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Longitudinal anthropometrics including monthly weight (kg), length (cm) and weight-for-length (WFL) values. For each measure, we estimated three individual-level growth parameters (size, timing, and velocity) from SuperImposition by Translation and Rotation (SITAR) models. Size and timing changes represent vertical and horizontal growth curve shifts, respectively, and velocity change represents growth rate shifts. We estimated the linear association between growth parameters and gestational age, maternal age, education, and socioeconomic position (SEP).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lower SEP was associated with a slower linear (length) velocity growth parameter (-0.22, 95% CI=-0.31,-0.13) – outcome units are percent change in velocity from the average growth curve. Lower SEP was associated with later WFL growth timing as demonstrated through the tempo growth parameter for females (0.25, 95% CI=0.05,0.42) – outcome units are shifts in days from the average growth curve. We found no evidence of associations between SEP and the weight size, timing, or velocity growth rate parameters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Previous research on growth in older infants and children shows associations between lower SEP with slower length velocity. We found evidence supporting this association in the first five months of life, which may inform age-specific prevention efforts aimed at infant growth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aim 2</title>
+      <link>https://ann-von-holle.github.io/project/dissertation-aim2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/project/dissertation-aim2/</guid>
+      <description>&lt;p&gt;Currently in review at 
+&lt;a href=&#34;https://academic.oup.com/aje/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the American Journal of Epidemiology&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Oral presentation at the American Heart Association Epi|Lifestyle 2018 meeting. Slides created in 
+&lt;a href=&#34;https://www.overleaf.com/read/trzmrtksswxn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Growth in early infancy is hypothesized to affect chronic disease risk factors later in life. To date, most reports draw on European ancestry cohorts with few repeated observations in early infancy. We investigated the association between infant growth from birth to 5 months and lipid levels in adolescents in a Hispanic/Latino cohort to determine if previous findings generalize to diverse study populations and to obtain more detailed growth estimates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Study design&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We characterized infant growth with monthly measures from birth to five months in males (n=311) and females (n=285) from the Santiago Longitudinal Study (SLS) using three metrics: weight (kg), length (cm) and weight-for-length (g/cm). Nonlinear mixed effects (SITAR) and latent growth mixture models (LGMM) were two approaches to estimate infant growth characteristics. Growth was the exposure and lipid levels at 17 years were the outcomes, including HDL-C, LDL-C, TG, and a TG:HDL-C ratio.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We found a positive relationship between the SITAR length velocity parameter before six months of age and HDL-C levels in adolescence (11.5, SE=4.1) indicating higher HDL-C levels occurring with faster length growth. The strongest associations from the LGMM models were between higher LDL-C and slower WFL growth. However, no associations from the LGMM models were statistically significant after accounting for multiple hypothesis testing. When assessing average lipid values across these latent class groups, most associations pointed towards the faster growth groups having more favorable lipid profiles.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This study provides evidence of associations between infant growth from birth to five months and blood lipid profiles during adolescence. In each case, slower growth is associated with adverse lipid profiles - not faster growth as originally hypothesized. Further research with larger samples in this window of time can better distinguish the role of growth in early versus later infancy and childhood as an exposure affecting cardiovascular disease risk factors in adolescence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aim 3</title>
+      <link>https://ann-von-holle.github.io/project/dissertation-aim3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/project/dissertation-aim3/</guid>
+      <description>&lt;p&gt;Poster presented at American Heart Association Epi|Lifestyle 2018 meeting. Slides created in 
+&lt;a href=&#34;https://www.overleaf.com/read/ddyzyzrphshc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Early infancy serves as a window of time in which environmental exposures are associated with chronic disease risk factors in adulthood. Infant weight growth during this time has been associated with lipid levels in both animal models and observational studies in humans. Epigenetic modification is one mechanism explaining this association, which results in metabolic programming. Extensive studies support functional association between genetic regions and lipid levels. Infant growth may influence genetic mechanisms and subsequent metabolic programming of lipid metabolism.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hypothesis&lt;/strong&gt;: Infant growth influences the strength of association between selected genetic variants and adverse lipid levels for children.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;: Assess SNP-lipid additive association across latent early infancy growth classes for 20 candidate genetic variants underlying lipid metabolism and fasting lipid profiles assessed at average 17 years of age.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Faster weight (pooled) and WFL (female) growth groups: positive association between rs72925845 and HDL-C.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HDL-C inversely associated with cardiovascular disease risk.&lt;/li&gt;
+&lt;li&gt;Expect negative association with HDL-C given established positive association with TG.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Faster weight growth group: inverse association between rs11076175 and LDL-C.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LDL-C positively associated with  cardiovascular disease risk.&lt;/li&gt;
+&lt;li&gt;Expect positive association with LDL-C given established inverse association with HDL-C.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Faster growth appears to be protective against a few deleterious SNP-lipid associations.&lt;/li&gt;
+&lt;li&gt;Heterogeneity of SNP-lipid association across growth patterns in this period suggests plasticity of response on a molecular level.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Aim 3 of my dissertation examines the associations between lipid single nucleotide polymorphisms (SNPs) and lipids conditional on growth classes. In this framework the growth classes function as effect modifiers of the SNP-lipid association. Both candidate lipid SNPs, chosen on the basis of marginal effects with adequate power, as well genetic risk scores will be covariates in the models. To characterize infant body size change,  I will use two analytic approaches as in aims 1 and 2: nonlinear mixed effects (SITAR) and latent growth mixture models (LGMM).
+# 
+# Our aim in this paper is to assess the importance of human growth during early infancy on lipid metabolism programming. We hypothesize that postnatal growth, serving as the exposure, has the potential to modify the association between lipid profiles and genotypes. We will categorize infant growth patterns from an infancy cohort using latent growth mixture models. Subsequent to categorization of growth patterns we will estimate additive genetic association with lipids across these latent groups to assess gene-environment interactions.
+# This exploratory work can generate further hypotheses to inform future interventions aimed at unfavorable child growth patterns linked with chronic disease risk factors including dyslipidemia.--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rmarkdown dissertation template</title>
+      <link>https://ann-von-holle.github.io/project2/dissertation-markdown/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/project2/dissertation-markdown/</guid>
+      <description>&lt;p&gt;I organized and formatted my dissertation using 
+&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Markdown&lt;/a&gt;. You find a working template similar to what I used for my 
+&lt;a href=&#34;https://cdr.lib.unc.edu/concern/dissertations/9z9031040&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dissertation&lt;/a&gt; at the following github repo: 
+&lt;a href=&#34;https://github.com/avonholle/unc-dissertation-markdown-template&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/avonholle/unc-dissertation-markdown-template&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shiny Apps</title>
+      <link>https://ann-von-holle.github.io/project2/shiny-app1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/project2/shiny-app1/</guid>
+      <description>&lt;p&gt;I made several 
+&lt;a href=&#34;https://www.shinyapps.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shiny Apps&lt;/a&gt; in my first year of graduate school in the UNC Department of Epidemiology demonstrating:&lt;/p&gt;
+&lt;h4 id=&#34;time-dependence-in-survival-analyses&#34;&gt;Time dependence in survival analyses&lt;/h4&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;https://vonholleunc.shinyapps.io/survival/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates examples of time dependence in survival analyses.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/avonholle/survival-app-shiny&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;statistical-interaction-and-confouding&#34;&gt;Statistical interaction and confouding&lt;/h4&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;https://vonholleunc.shinyapps.io/int_and_conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates both statistical interaction and confounding.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/avonholle/int-and-conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;additive-and-multiplicative-effect-modification-part-1&#34;&gt;Additive and multiplicative effect modification, part 1&lt;/h4&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;https://vonholleunc.shinyapps.io/int_and_conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates interaction on additive versus multiplicative scale. The example is from the Hosmer and Lemeshow 2013 textbook 
+&lt;a href=&#34;https://www.wiley.com/en-us/Applied&amp;#43;Logistic&amp;#43;Regression%2C&amp;#43;3rd&amp;#43;Edition-p-9780470582473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Applied Logistic Regression&amp;rsquo;&lt;/a&gt;, section 10.9.1, pages 448 to 451, titled, &amp;ldquo;Additive versus Multiplicative Scale &amp;ndash; Risk difference versus odds ratio&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/avonholle/add-mult-int-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;additive-and-multiplicative-effect-modification-part-2&#34;&gt;Additive and multiplicative effect modification, part 2&lt;/h4&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;https://vonholleunc.shinyapps.io/add-mult-int-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates additive and multiplicative interaction based on example in the  
+&lt;a href=&#34;https://www.wiley.com/en-us/Applied&amp;#43;Logistic&amp;#43;Regression%2C&amp;#43;3rd&amp;#43;Edition-p-9780470582473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Applied Logistic Regression&amp;rsquo;&lt;/a&gt; textbook, section 10.9.2, pages 451-456.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/avonholle/add-mult-int-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

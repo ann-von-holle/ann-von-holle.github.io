@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Ann Von Holle</title>
+    <link>https://ann-von-holle.github.io/publication-type/3/</link>
+      <atom:link href="https://ann-von-holle.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ann-von-holle.github.io/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://ann-von-holle.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Association between serum iron biomarkers and breast cancer</title>
+      <link>https://ann-von-holle.github.io/publication/preprint2/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/publication/preprint2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sociodemographic predictors of early postnatal growth: Evidence from a Chilean infancy cohort</title>
+      <link>https://ann-von-holle.github.io/publication/journal-article2/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/publication/journal-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The perils of standardizing infant weight to assess weight change differences across exposure groups</title>
+      <link>https://ann-von-holle.github.io/publication/journal-article3/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/publication/journal-article3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aim 1</title>
+      <link>https://ann-von-holle.github.io/project/dissertation-aim1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/project/dissertation-aim1/</guid>
+      <description>&lt;p&gt;Title: 
+&lt;a href=&#34;http://dx.doi.org/10.1136/bmjopen-2019-033695&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sociodemographic predictors of early postnatal growth: evidence from a Chilean infancy cohort&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Infant anthropometric growth varies across socioeconomic factors, including maternal education and income, and may serve as an indicator of environmental influences in early life with long term health consequences. Previous research has identified sociodemographic gradients in growth with a focus on the first year and beyond, but estimates are sparse for growth before six months. Thus, our objective was to examine the relationship between sociodemographic factors and infant growth patterns between birth and five months of age.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prospective cohort study&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Settings&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Low- to middle-income neighborhoods in Santiago, Chile (1991-1996).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1,412 participants from a randomized iron deficiency anemia preventive trial in healthy infants.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main outcome measures&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Longitudinal anthropometrics including monthly weight (kg), length (cm) and weight-for-length (WFL) values. For each measure, we estimated three individual-level growth parameters (size, timing, and velocity) from SuperImposition by Translation and Rotation (SITAR) models. Size and timing changes represent vertical and horizontal growth curve shifts, respectively, and velocity change represents growth rate shifts. We estimated the linear association between growth parameters and gestational age, maternal age, education, and socioeconomic position (SEP).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lower SEP was associated with a slower linear (length) velocity growth parameter (-0.22, 95% CI=-0.31,-0.13) – outcome units are percent change in velocity from the average growth curve. Lower SEP was associated with later WFL growth timing as demonstrated through the tempo growth parameter for females (0.25, 95% CI=0.05,0.42) – outcome units are shifts in days from the average growth curve. We found no evidence of associations between SEP and the weight size, timing, or velocity growth rate parameters.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Previous research on growth in older infants and children shows associations between lower SEP with slower length velocity. We found evidence supporting this association in the first five months of life, which may inform age-specific prevention efforts aimed at infant growth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shiny Apps</title>
+      <link>https://ann-von-holle.github.io/project2/shiny-app1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/project2/shiny-app1/</guid>
+      <description>&lt;p&gt;I made several 
+&lt;a href=&#34;https://www.shinyapps.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shiny Apps&lt;/a&gt; in my first year of graduate school in the UNC Department of Epidemiology demonstrating:&lt;/p&gt;
+&lt;h4 id=&#34;time-dependence-in-survival-analyses&#34;&gt;Time dependence in survival analyses&lt;/h4&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;https://vonholleunc.shinyapps.io/survival/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates examples of time dependence in survival analyses.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/avonholle/survival-app-shiny&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;statistical-interaction-and-confouding&#34;&gt;Statistical interaction and confouding&lt;/h4&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;https://vonholleunc.shinyapps.io/int_and_conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates both statistical interaction and confounding.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/avonholle/int-and-conf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;additive-and-multiplicative-effect-modification-part-1&#34;&gt;Additive and multiplicative effect modification, part 1&lt;/h4&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;https://vonholleunc.shinyapps.io/int_and_conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates interaction on additive versus multiplicative scale. The example is from the Hosmer and Lemeshow 2013 textbook 
+&lt;a href=&#34;https://www.wiley.com/en-us/Applied&amp;#43;Logistic&amp;#43;Regression%2C&amp;#43;3rd&amp;#43;Edition-p-9780470582473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Applied Logistic Regression&amp;rsquo;&lt;/a&gt;, section 10.9.1, pages 448 to 451, titled, &amp;ldquo;Additive versus Multiplicative Scale &amp;ndash; Risk difference versus odds ratio&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/avonholle/add-mult-int-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;additive-and-multiplicative-effect-modification-part-2&#34;&gt;Additive and multiplicative effect modification, part 2&lt;/h4&gt;
+&lt;p&gt;This 
+&lt;a href=&#34;https://vonholleunc.shinyapps.io/add-mult-int-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; simulates additive and multiplicative interaction based on example in the  
+&lt;a href=&#34;https://www.wiley.com/en-us/Applied&amp;#43;Logistic&amp;#43;Regression%2C&amp;#43;3rd&amp;#43;Edition-p-9780470582473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Applied Logistic Regression&amp;rsquo;&lt;/a&gt; textbook, section 10.9.2, pages 451-456.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/avonholle/add-mult-int-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

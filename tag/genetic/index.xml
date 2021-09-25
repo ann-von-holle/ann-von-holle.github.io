@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>genetic | Ann Von Holle</title>
+    <link>https://ann-von-holle.github.io/tag/genetic/</link>
+      <atom:link href="https://ann-von-holle.github.io/tag/genetic/index.xml" rel="self" type="application/rss+xml" />
+    <description>genetic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ann-von-holle.github.io/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
+      <title>genetic</title>
+      <link>https://ann-von-holle.github.io/tag/genetic/</link>
+    </image>
+    
+    <item>
+      <title>Aim 3</title>
+      <link>https://ann-von-holle.github.io/project/dissertation-aim3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/project/dissertation-aim3/</guid>
+      <description>&lt;p&gt;Poster presented at American Heart Association Epi|Lifestyle 2018 meeting. Slides created in 
+&lt;a href=&#34;https://www.overleaf.com/read/ddyzyzrphshc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Early infancy serves as a window of time in which environmental exposures are associated with chronic disease risk factors in adulthood. Infant weight growth during this time has been associated with lipid levels in both animal models and observational studies in humans. Epigenetic modification is one mechanism explaining this association, which results in metabolic programming. Extensive studies support functional association between genetic regions and lipid levels. Infant growth may influence genetic mechanisms and subsequent metabolic programming of lipid metabolism.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hypothesis&lt;/strong&gt;: Infant growth influences the strength of association between selected genetic variants and adverse lipid levels for children.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;: Assess SNP-lipid additive association across latent early infancy growth classes for 20 candidate genetic variants underlying lipid metabolism and fasting lipid profiles assessed at average 17 years of age.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Faster weight (pooled) and WFL (female) growth groups: positive association between rs72925845 and HDL-C.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HDL-C inversely associated with cardiovascular disease risk.&lt;/li&gt;
+&lt;li&gt;Expect negative association with HDL-C given established positive association with TG.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Faster weight growth group: inverse association between rs11076175 and LDL-C.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LDL-C positively associated with  cardiovascular disease risk.&lt;/li&gt;
+&lt;li&gt;Expect positive association with LDL-C given established inverse association with HDL-C.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Faster growth appears to be protective against a few deleterious SNP-lipid associations.&lt;/li&gt;
+&lt;li&gt;Heterogeneity of SNP-lipid association across growth patterns in this period suggests plasticity of response on a molecular level.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Aim 3 of my dissertation examines the associations between lipid single nucleotide polymorphisms (SNPs) and lipids conditional on growth classes. In this framework the growth classes function as effect modifiers of the SNP-lipid association. Both candidate lipid SNPs, chosen on the basis of marginal effects with adequate power, as well genetic risk scores will be covariates in the models. To characterize infant body size change,  I will use two analytic approaches as in aims 1 and 2: nonlinear mixed effects (SITAR) and latent growth mixture models (LGMM).
+# 
+# Our aim in this paper is to assess the importance of human growth during early infancy on lipid metabolism programming. We hypothesize that postnatal growth, serving as the exposure, has the potential to modify the association between lipid profiles and genotypes. We will categorize infant growth patterns from an infancy cohort using latent growth mixture models. Subsequent to categorization of growth patterns we will estimate additive genetic association with lipids across these latent groups to assess gene-environment interactions.
+# This exploratory work can generate further hypotheses to inform future interventions aimed at unfavorable child growth patterns linked with chronic disease risk factors including dyslipidemia.--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
