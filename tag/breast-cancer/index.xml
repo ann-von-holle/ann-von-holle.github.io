@@ -5,12 +5,20 @@
     <link>https://ann-von-holle.github.io/tag/breast-cancer/</link>
       <atom:link href="https://ann-von-holle.github.io/tag/breast-cancer/index.xml" rel="self" type="application/rss+xml" />
     <description>breast cancer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ann-von-holle.github.io/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
       <title>breast cancer</title>
       <link>https://ann-von-holle.github.io/tag/breast-cancer/</link>
     </image>
+    
+    <item>
+      <title>Association between serum iron biomarkers and breast cancer</title>
+      <link>https://ann-von-holle.github.io/poster/202012-iron/</link>
+      <pubDate>Tue, 01 Dec 2020 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/poster/202012-iron/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evidence for familial clustering in breast cancer age of onset</title>
@@ -25,6 +33,14 @@
       <link>https://ann-von-holle.github.io/publication/journal-article4/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://ann-von-holle.github.io/publication/journal-article4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Familial aggregation of age of onset for breast cancer risk</title>
+      <link>https://ann-von-holle.github.io/poster/201906-ageofonset/</link>
+      <pubDate>Sat, 01 Jun 2019 13:00:00 +0000</pubDate>
+      <guid>https://ann-von-holle.github.io/poster/201906-ageofonset/</guid>
       <description></description>
     </item>
     
