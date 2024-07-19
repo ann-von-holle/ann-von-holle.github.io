@@ -59,77 +59,17 @@
   
   <url>
     <loc>https://ann-von-holle.github.io/publication-type/2/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ann-von-holle.github.io/author/ann-von-holle/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ann-von-holle.github.io/authors/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/author/jackson-bp/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/author/karagas-mr/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/author/levine-ke/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/author/obrien-km/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/publication_types/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/publication/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/tag/seasonal-patterns/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/publication/journal-article10/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/tag/trace-elements/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/author/weinberg-cr/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/author/white-aj/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ann-von-holle.github.io/author/wojcik-km/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -163,7 +103,22 @@
   </url>
   
   <url>
+    <loc>https://ann-von-holle.github.io/publication_types/</loc>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/publication/</loc>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ann-von-holle.github.io/tag/time-to-event-models/</loc>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/author/weinberg-cr/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,7 +133,22 @@
   </url>
   
   <url>
+    <loc>https://ann-von-holle.github.io/author/jackson-bp/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ann-von-holle.github.io/author/janicek-r/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/author/karagas-mr/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/author/levine-ke/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -189,6 +159,11 @@
   
   <url>
     <loc>https://ann-von-holle.github.io/author/niehoff-nm/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/author/obrien-km/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -253,12 +228,37 @@
   </url>
   
   <url>
+    <loc>https://ann-von-holle.github.io/tag/seasonal-patterns/</loc>
+    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/publication/journal-article10/</loc>
+    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ann-von-holle.github.io/tag/shrinkage/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://ann-von-holle.github.io/tag/trace-elements/</loc>
+    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ann-von-holle.github.io/tag/validation/</loc>
+    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/author/white-aj/</loc>
+    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ann-von-holle.github.io/author/wojcik-km/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url>
   
