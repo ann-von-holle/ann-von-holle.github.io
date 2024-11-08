@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>genetic | Ann Von Holle</title>
+    <title>Genetic | Ann Von Holle</title>
     <link>https://ann-von-holle.github.io/tag/genetic/</link>
       <atom:link href="https://ann-von-holle.github.io/tag/genetic/index.xml" rel="self" type="application/rss+xml" />
-    <description>genetic</description>
+    <description>Genetic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ann-von-holle.github.io/images/icon_huf78cfa0514f34e3e45701546128c26c0_21162_512x512_fill_lanczos_center_2.png</url>
-      <title>genetic</title>
+      <url>https://ann-von-holle.github.io/images/icon_hu14510827586279981364.png</url>
+      <title>Genetic</title>
       <link>https://ann-von-holle.github.io/tag/genetic/</link>
     </image>
     
@@ -47,9 +47,7 @@
 &lt;!-- Aim 3 of my dissertation examines the associations between lipid single nucleotide polymorphisms (SNPs) and lipids conditional on growth classes. In this framework the growth classes function as effect modifiers of the SNP-lipid association. Both candidate lipid SNPs, chosen on the basis of marginal effects with adequate power, as well genetic risk scores will be covariates in the models. To characterize infant body size change,  I will use two analytic approaches as in aims 1 and 2: nonlinear mixed effects (SITAR) and latent growth mixture models (LGMM).
 # 
 # Our aim in this paper is to assess the importance of human growth during early infancy on lipid metabolism programming. We hypothesize that postnatal growth, serving as the exposure, has the potential to modify the association between lipid profiles and genotypes. We will categorize infant growth patterns from an infancy cohort using latent growth mixture models. Subsequent to categorization of growth patterns we will estimate additive genetic association with lipids across these latent groups to assess gene-environment interactions.
-# This exploratory work can generate further hypotheses to inform future interventions aimed at unfavorable child growth patterns linked with chronic disease risk factors including dyslipidemia.--&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+# This exploratory work can generate further hypotheses to inform future interventions aimed at unfavorable child growth patterns linked with chronic disease risk factors including dyslipidemia.--&gt;</description>
     </item>
     
   </channel>
